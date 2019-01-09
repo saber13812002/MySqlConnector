@@ -1,0 +1,14 @@
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\homa-aseman-webapi.deps.json
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\homa-aseman-webapi.runtimeconfig.json
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\homa-aseman-webapi.runtimeconfig.dev.json
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\homa-aseman-webapi.dll
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\homa-aseman-webapi.pdb
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.csprojAssemblyReference.cache
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.csproj.CoreCompileInputs.cache
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.RazorAssemblyInfo.cache
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.RazorAssemblyInfo.cs
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.AssemblyInfoInputs.cache
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.AssemblyInfo.cs
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.dll
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.pdb
