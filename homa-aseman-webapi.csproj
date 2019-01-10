@@ -14,4 +14,10 @@
     <PackageReference Include="MySqlConnector" Version="0.48.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>  
+  </ItemGroup>
+
 </Project>

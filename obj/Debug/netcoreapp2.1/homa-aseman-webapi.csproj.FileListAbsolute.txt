@@ -12,3 +12,4 @@ C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\h
 C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.RazorTargetAssemblyInfo.cache
 C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.dll
 C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\obj\Debug\netcoreapp2.1\homa-aseman-webapi.pdb
+C:\Users\taba\wordpress\homa-aseman\homa-aseman-webapi\bin\Debug\netcoreapp2.1\appsettings.json
