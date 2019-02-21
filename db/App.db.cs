@@ -10,7 +10,7 @@ namespace MySqlConnector.Performance
         public AppDb()
         {			
             //Connection = new MySqlConnection(AppConfig.Config["Data:ConnectionString"]);
-            string connectionString="server=127.0.0.1;user id=root;password=;port=3306;database=homa-aseman;";
+            string connectionString="server=s1.liara.ir;user id=root;password=jUweMpsn4qtNLA7ZOzRlLuGu;port=30618;database=homa-aseman;";
             Connection = new MySqlConnection(connectionString);
         }
 

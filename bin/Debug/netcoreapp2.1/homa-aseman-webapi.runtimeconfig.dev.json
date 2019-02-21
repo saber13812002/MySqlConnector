@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\taba\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\taba\\.nuget\\packages",
+      "C:\\Users\\saber\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\saber\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
